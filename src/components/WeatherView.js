@@ -1,5 +1,6 @@
 import React , { useState } from 'react'
-import WeatherData from './WeatherData';
+import WeatherData from './WeatherData'
+require('dotenv').config()
 
 const WeatherView = () => {
     let [city, setCity] = useState('');
