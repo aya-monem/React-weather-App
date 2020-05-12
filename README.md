@@ -22,3 +22,6 @@ Builds the app for production to the `build` folder.
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Important
+Remember to include a local .env file for the REACT_APP_API_KEY variable in process.env
